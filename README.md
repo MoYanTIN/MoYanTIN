@@ -4,5 +4,6 @@
 
 - 🔭 I’m currently study in Macau
 - 🌱 I’m currently learning CS
-
 - cs61a learning...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMoYanTINanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
